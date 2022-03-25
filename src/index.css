@@ -1,0 +1,51 @@
+* {
+    margin: 0 0 0 0;
+}
+
+body {
+    background-color: rgb(64, 172, 172);
+}
+
+h1 {
+    text-align: center;
+}
+
+header {
+    background-color: rgb(14, 19, 90);
+    padding: 15px 15px;
+}
+
+header a {
+    color: white;
+    font-size: 24px;
+}
+
+header a:hover {
+    color: rgb(46, 147, 165);
+}
+
+header:hover {
+    color: darkblue;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(13, 13, 133);
+    text-decoration:underline;
+}
+
+.recipes {
+    
+    list-style: none;
+    text-align: center;
+    font-size: 24px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
